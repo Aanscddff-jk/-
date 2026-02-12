@@ -2,7 +2,7 @@ local Players = game:GetService("Players")
 local LP = Players.LocalPlayer
 local PlayerGui = LP:WaitForChild("PlayerGui")
 local RunService = game:GetService("RunService")
-local Mouse = LP:GetMouse()
+local Mous LP:GetMouse()
 
 local RemoteEvents = {}
 local CuffedTargets = {}
